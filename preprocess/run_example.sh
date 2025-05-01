@@ -7,7 +7,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=haikuo.li@yale.edu
 
-#change directories and parameters below
+#change directory paths below
 raw_folder=/gpfs/gibbs/pi/fan/userid/FFPE_epi/epiPatho/raw/01.RawData/MB/
 fastq_intput_1=$raw_folder/data_1.fq.gz
 fastq_intput_2=$raw_folder/data_2.fq.gz
