@@ -21,4 +21,5 @@ This repository documents scripts used for data analysis and visualization in an
 4. Trajectory inference with Monocle2 and Monocle3
 5. Mitotic age inference with Epitrace, including Epitrace analysis in R and downstream analysis in Python
 6. Analysis of Patho-DBiT (spatial-RNA-seq) data, including dimension reduction/clustering in Scanpy and inferCNV analysis in R
-7. Visualization of fragment data with circos
+7. Spatial cell-cell interaction analysis with NICHES in R
+8. Visualization of fragment data with circos
