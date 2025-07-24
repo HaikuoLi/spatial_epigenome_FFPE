@@ -18,7 +18,7 @@ This repository documents scripts used for data analysis and visualization in an
 1. Tissue architecture super-resolution inference using iStar, including input file preparation in Python, iStar bash scripts and a mask tissue image
 2. Copy number variation inference using epiAneufinder, including epiAneufinder analysis in R and downstream analysis in Python
 3. Cell cycle scoring and gene module scoring analysis
-4. Trajectory inference with Monocle2
+4. Trajectory inference with Monocle2 and Monocle3
 5. Mitotic age inference with Epitrace, including Epitrace analysis in R and downstream analysis in Python
 6. Analysis of Patho-DBiT (spatial-RNA-seq) data, including dimension reduction/clustering in Scanpy and inferCNV analysis in R
 7. Visualization of fragment data with circos
