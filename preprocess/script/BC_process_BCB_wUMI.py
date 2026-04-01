@@ -13,10 +13,10 @@ input_file_R1 = args["input"]
 output_file_R1 = args["output_R1"]
 output_file_R2 = args["output_R2"]
 
-#seq_start=117 # 22bp primer  + 8bp BC2 + 30bp linker2 + 8bp BC1 + 30bp linker1 + 19bp ME (chemV2 barcode B no UMI)
+seq_start=117 # 22bp primer  + 8bp BC2 + 30bp linker2 + 8bp BC1 + 30bp linker1 + 19bp ME (chemV2 barcode B w/o UMI)
 
 
-seq_start=127 # 22bp primer  + 8bp BC2 + 30bp linker2 + 8bp BC1 + 30bp linker1 + 19bp ME (chemV2 barcode B w/ UMI)
+#seq_start=127 # 22bp primer  + 8bp BC2 + 30bp linker2 + 8bp BC1 + 30bp linker1 + 19bp ME (chemV2 barcode B w/ UMI)
 
 bc2_start=22
 bc2_end=30
