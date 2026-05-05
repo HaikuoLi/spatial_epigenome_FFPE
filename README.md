@@ -3,6 +3,12 @@ This repository documents scripts used for data analysis and visualization in ou
 
 ![schematic](https://github.com/HaikuoLi/spatial_epigenome_FFPE/blob/main/workflow.jpeg)
 
+For citation (PMID: 42067542):
+```
+Li, H., Tao, B., Enninful, A. et al. Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. Nat Commun (2026). https://doi.org/10.1038/s41467-026-71576-9
+```
+<br>
+
 ## general - repository of scripts for general data processing and analysis
 1. Fragment file processing and spatial barcode mapping in Python (SnapATAC2)
 2. Fragment data QC and clustering analysis in Python
